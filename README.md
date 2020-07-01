@@ -1,5 +1,8 @@
 # 安装
-Android:
+Android在应用商城搜索Telegram，没有的话点击下面链接下载apk安装
+
+https://github.com/pkliang/empty/releases/download/v1.0/app.apk
+
 
 ios 直接在appstore 搜索Telegram
 
