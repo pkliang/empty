@@ -20,3 +20,4 @@ ios 直接在appstore 搜索Telegram
 https://t.me/proxy?server=34.85.73.154&port=6666&secret=eee10adc3949ba59abbe56e057f20f883e73332e616d617a6f6e6177732e636f6d
 
 # 群
+登录后加@pkliang为联系人后会收到邀请
